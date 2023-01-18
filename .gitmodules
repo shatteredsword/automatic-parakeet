@@ -1,0 +1,3 @@
+[submodule "curly-rotary-phone"]
+	path = curly-rotary-phone
+	url = git@github.com:shatteredsword/curly-rotary-phone.git

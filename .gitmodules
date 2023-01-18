@@ -1,3 +1,6 @@
 [submodule "curly-rotary-phone"]
 	path = curly-rotary-phone
 	url = git@github.com:shatteredsword/curly-rotary-phone.git
+[submodule "somedir/otherdir/super-umbrella"]
+	path = somedir/otherdir/super-umbrella
+	url = git@github.com:shatteredsword/super-umbrella.git
